@@ -1,5 +1,5 @@
 ## Project Name
-# Feed Pool
+# NewsFeed
 An application for news built using News API
 
 ## Project  
